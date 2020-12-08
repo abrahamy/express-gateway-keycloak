@@ -18,7 +18,7 @@
     "@types/node": "^10.12.18",
     "json-schema": "^0.2.3",
     "express-gateway": "^1.14.0",
-    "ts-node": "^8.3.0",
+    "ts-node": "^9.1.1",
     "typescript": "^3.2.2"
   }
 }
