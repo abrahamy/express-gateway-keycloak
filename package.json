@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "keycloak-connect": "^4.8.2",
+    "keycloak-connect": "^12.0.4",
     "keycloak-connect-multirealm": "^1.1.0",
     "memorystore": "^1.6.0"
   },
